@@ -10,14 +10,12 @@ Here are the steps to follow to do it successfully :
 
 1. Click on "New Repository", give it a name and choose "Public" access (you will have to pay if you choose Private)
 2. Then go to the "Settings" of your newly created repository > in the "GitHub Pages" area choose "Source" > "Master branch"
-
 At this point your website is published with the url indicated on top of the GitHub Pages area, and the content of the page is the title and the description you entered at the beginning
-
 3. Choose a theme for your page "Settings" > "GitHub Pages" area, "Theme" > "Choose a theme"
 
 Refresh your website page (several times if necessary)
 
-At this point the content of your website is the automatic content of the theme you chose, see hox to customize it in Set 3.
+At this point the content of your website is the automatic content of the theme you chose, see hox to customize it in Step 3.
 
 You can watch this Youtube tutorialto help you : [Create your first GitHub Pages Website](https://www.youtube.com/watch?v=BA_c3bGQXlQ)
 
